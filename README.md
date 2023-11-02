@@ -1,2 +1,2 @@
 # Projects Data science
- Prsonal data science projects
+ Personal data science projects
